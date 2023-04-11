@@ -15,5 +15,4 @@ CHESHIRE_CAT = """Cheshire Cat by Joan Stark
 https://www.asciiart.eu/books/alice-in-wonderland
           """
 
-def print_cat():
-      print(CHESHIRE_CAT)
+print(CHESHIRE_CAT)
